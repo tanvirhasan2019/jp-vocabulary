@@ -20,6 +20,18 @@ Each vocabulary entry includes the word with kanji/kana, meaning, and example se
 | **Kinyoubi** | 金曜日 | Friday | Let's meet on Friday. | Kinyoubi ni aimashou. | 金曜日に会いましょう。 |
 | **Fukuzatsu** | 複雑 | complicated | This problem is complicated. | Kono mondai wa fukuzatsu da. | この問題は複雑だ。 |
 | **Tsuuyaku** | 通訳 | interpreter / interpreting | He works as an interpreter. | Kare wa tsuuyaku to shite hataraite iru. | 彼は通訳として働いている。 |
+| **Hantai** | 反対 | opposition / opposite / disagree | I disagree with that opinion. | Sono iken ni hantai desu. | その意見に反対です。 |
+| **Kansha** | 感謝 | gratitude / thanks | I appreciate your help. | Tasukete kurete kansha shimasu. | 助けてくれて感謝します。 |
+| **Zannen** | 残念 | unfortunate / disappointing | That’s unfortunate. | Sore wa zannen da. | それは残念だ。 |
+| **Seikou** | 成功 | success | The project was a success. | Purojekuto wa seikou shita. | プロジェクトは成功した。 |
+| **Yoyaku** | 予約 | reservation / booking | I made a hotel reservation. | Hoteru o yoyaku shimashita. | ホテルを予約しました。 |
+| **Shinpai nai** | 心配ない | no worries / it's okay | There’s nothing to worry about. | Shinpai nai yo. | 心配ないよ。 |
+| **Meiwaku** | 迷惑 | nuisance / trouble / inconvenience | Sorry to bother you. | Meiwaku o kakete sumimasen. | 迷惑をかけてすみません。 |
+| **Jouhou** | 情報 | information | Do you have any information? | Nanika jouhou arimasu ka? | 何か情報ありますか？ |
+| **Taihen** | 大変 | tough / difficult / serious | It was a tough day. | Taihen na ichinichi datta. | 大変な一日だった。 |
+| **Jikan** | 時間 | time | Do you have time? | Jikan arimasu ka? | 時間ありますか？ |
+
+---
 
 ## Quick Reference Table
 
@@ -35,6 +47,18 @@ Each vocabulary entry includes the word with kanji/kana, meaning, and example se
 | **Kinyoubi** | 金曜日 | Friday |
 | **Fukuzatsu** | 複雑 | complicated |
 | **Tsuuyaku** | 通訳 | interpreter / interpreting |
+| **Hantai** | 反対 | opposition / opposite / disagree |
+| **Kansha** | 感謝 | gratitude / thanks |
+| **Zannen** | 残念 | unfortunate / disappointing |
+| **Seikou** | 成功 | success |
+| **Yoyaku** | 予約 | reservation / booking |
+| **Shinpai nai** | 心配ない | no worries / it's okay |
+| **Meiwaku** | 迷惑 | nuisance / trouble / inconvenience |
+| **Jouhou** | 情報 | information |
+| **Taihen** | 大変 | tough / difficult / serious |
+| **Jikan** | 時間 | time |
+
+---
 
 ## Study Tips
 
@@ -44,18 +68,11 @@ Each vocabulary entry includes the word with kanji/kana, meaning, and example se
 - **Spaced repetition:** Review older vocabulary regularly
 - **Speaking practice:** Try using new words in conversations
 
+---
+
 ## Contributing
 
 To add new vocabulary entries, follow this table format:
 
 ```markdown
 | **Word** | Kanji/Kana | Meaning | English Example | Romaji Example | Japanese Example |
-```
-
-## License
-
-This vocabulary collection is for educational purposes. Feel free to use and share!
-
----
-
-*Happy learning! 頑張って！(Ganbatte!)*
