@@ -4,112 +4,37 @@ A comprehensive collection of Japanese vocabulary with meanings, examples, and u
 
 ## How to Use This Guide
 
-Each vocabulary entry includes:
-- **Word** with kanji and hiragana/katakana
-- **Meaning** in English
-- **Example sentence** in English, romaji, and Japanese
+Each vocabulary entry includes the word with kanji/kana, meaning, and example sentences in English, romaji, and Japanese.
 
-## Vocabulary List
+## Vocabulary Table
 
-### **Kekka (結果)**
-**Meaning:** result / outcome
+| Word (Romaji) | Kanji/Kana | Meaning | English Example | Romaji Example | Japanese Example |
+|---------------|------------|---------|-----------------|----------------|------------------|
+| **Kekka** | 結果 | result / outcome | The result was unexpected. | Kekka wa igai datta. | 結果は意外だった。 |
+| **Kanzen** | 完全 | perfect / complete | His plan was perfect. | Kare no keikaku wa kanzen datta. | 彼の計画は完全だった。 |
+| **Shinpai** | 心配 | worry / concern | Don't worry. | Shinpai shinai de. | 心配しないで。 |
+| **Yakamashii** | やかましい | noisy / annoying | The kids were noisy. | Kodomo-tachi wa yakamashikatta. | 子供たちはやかましかった。 |
+| **Teinei** | 丁寧 | polite / careful | She speaks politely. | Kanojo wa teineini hanasu. | 彼女は丁寧に話す。 |
+| **Kiken** | 危険 | danger / dangerous | It's dangerous to go alone. | Hitori de iku no wa kiken da. | 一人で行くのは危険だ。 |
+| **Kanzen ni** | 完全に | completely | I completely forgot. | Kanzen ni wasureta. | 完全に忘れた。 |
+| **Kinyoubi** | 金曜日 | Friday | Let's meet on Friday. | Kinyoubi ni aimashou. | 金曜日に会いましょう。 |
+| **Fukuzatsu** | 複雑 | complicated | This problem is complicated. | Kono mondai wa fukuzatsu da. | この問題は複雑だ。 |
+| **Tsuuyaku** | 通訳 | interpreter / interpreting | He works as an interpreter. | Kare wa tsuuyaku to shite hataraite iru. | 彼は通訳として働いている。 |
 
-**Example:**
-- *The result was unexpected.*
-- **Romaji:** *Kekka wa igai datta.*
-- **日本語:** 結果は意外だった。
+## Quick Reference Table
 
----
-
-### **Kanzen (完全)**
-**Meaning:** perfect / complete
-
-**Example:**
-- *His plan was perfect.*
-- **Romaji:** *Kare no keikaku wa kanzen datta.*
-- **日本語:** 彼の計画は完全だった。
-
----
-
-### **Shinpai (心配)**
-**Meaning:** worry / concern
-
-**Example:**
-- *Don't worry.*
-- **Romaji:** *Shinpai shinai de.*
-- **日本語:** 心配しないで。
-
----
-
-### **Yakamashii (やかましい)**
-**Meaning:** noisy / annoying
-
-**Example:**
-- *The kids were noisy.*
-- **Romaji:** *Kodomo-tachi wa yakamashikatta.*
-- **日本語:** 子供たちはやかましかった。
-
----
-
-### **Teinei (丁寧)**
-**Meaning:** polite / careful
-
-**Example:**
-- *She speaks politely.*
-- **Romaji:** *Kanojo wa teineini hanasu.*
-- **日本語:** 彼女は丁寧に話す。
-
----
-
-### **Kiken (危険)**
-**Meaning:** danger / dangerous
-
-**Example:**
-- *It's dangerous to go alone.*
-- **Romaji:** *Hitori de iku no wa kiken da.*
-- **日本語:** 一人で行くのは危険だ。
-
----
-
-### **Kanzen ni (完全に)**
-**Meaning:** completely
-
-**Example:**
-- *I completely forgot.*
-- **Romaji:** *Kanzen ni wasureta.*
-- **日本語:** 完全に忘れた。
-
----
-
-### **Kinyoubi (金曜日)**
-**Meaning:** Friday
-
-**Example:**
-- *Let's meet on Friday.*
-- **Romaji:** *Kinyoubi ni aimashou.*
-- **日本語:** 金曜日に会いましょう。
-
----
-
-### **Fukuzatsu (複雑)**
-**Meaning:** complicated
-
-**Example:**
-- *This problem is complicated.*
-- **Romaji:** *Kono mondai wa fukuzatsu da.*
-- **日本語:** この問題は複雑だ。
-
----
-
-### **Tsuuyaku (通訳)**
-**Meaning:** interpreter / interpreting
-
-**Example:**
-- *He works as an interpreter.*
-- **Romaji:** *Kare wa tsuuyaku to shite hataraite iru.*
-- **日本語:** 彼は通訳として働いている。
-
----
+| Word | Kanji/Kana | Meaning |
+|------|------------|---------|
+| **Kekka** | 結果 | result / outcome |
+| **Kanzen** | 完全 | perfect / complete |
+| **Shinpai** | 心配 | worry / concern |
+| **Yakamashii** | やかましい | noisy / annoying |
+| **Teinei** | 丁寧 | polite / careful |
+| **Kiken** | 危険 | danger / dangerous |
+| **Kanzen ni** | 完全に | completely |
+| **Kinyoubi** | 金曜日 | Friday |
+| **Fukuzatsu** | 複雑 | complicated |
+| **Tsuuyaku** | 通訳 | interpreter / interpreting |
 
 ## Study Tips
 
@@ -121,16 +46,10 @@ Each vocabulary entry includes:
 
 ## Contributing
 
-Feel free to add more vocabulary entries following the same format:
+To add new vocabulary entries, follow this table format:
 
 ```markdown
-### **Word (Kanji/Kana)**
-**Meaning:** English meaning
-
-**Example:**
-- *English sentence.*
-- **Romaji:** *Romanized Japanese.*
-- **日本語:** Japanese sentence.
+| **Word** | Kanji/Kana | Meaning | English Example | Romaji Example | Japanese Example |
 ```
 
 ## License
