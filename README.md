@@ -11,6 +11,7 @@ A comprehensive collection of Japanese vocabulary to help you master the languag
 | [Day 3](day-03.md) | Daily Life and Work | [Quick Reference →](day-03.md#quick-reference-table) |
 | [Day 4](day-04.md) | Advanced Concepts and Methods | [Quick Reference →](day-04.md#quick-reference-table) |
 | [Day 5](day-05.md) | Business and Academic Terms | [Quick Reference →](day-05.md#quick-reference-table) |
+| [Day 6](day-06.md) | Business Communication and Daily Activities | [Quick Reference →](day-06.md#quick-reference-table) |
 
 ## 📝 Learning Structure
 

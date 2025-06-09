@@ -1,6 +1,6 @@
 # Day 5: Business and Academic Terms
 
-[← Day 4](day-04.md) | [Main Menu](README.md)
+[← Day 4](day-04.md) | [Main Menu](README.md) | [Day 6 →](day-06.md)
 
 ## 📑 Quick Reference Table
 
