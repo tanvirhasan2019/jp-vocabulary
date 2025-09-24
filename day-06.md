@@ -1,6 +1,6 @@
 # Day 6: Business Communication and Daily Activities
 
-[← Day 5](day-05.md) | [Main Menu](README.md)  | [→ Day 5](day-07.md)
+[← Day 5](day-05.md) | [Main Menu](README.md)  | [→ Day 7](day-07.md)
 
 ## 📑 Quick Reference Table
 
@@ -62,7 +62,7 @@
 
 ## ⏭️ Navigation
 
-[← Day 5](day-05.md) | [Main Menu](README.md)  | [→ Day 5](day-07.md)
+[← Day 5](day-05.md) | [Main Menu](README.md)  | [→ Day 7](day-07.md)
 
 ---
 Want to contribute? Check the [contribution guidelines](README.md#contributing).
