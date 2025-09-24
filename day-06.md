@@ -62,7 +62,7 @@
 
 ## ⏭️ Navigation
 
-[← Day 5](day-05.md) | [Main Menu](README.md)
+[← Day 5](day-05.md) | [Main Menu](README.md)  [← Day 5](day-07.md)
 
 ---
 Want to contribute? Check the [contribution guidelines](README.md#contributing).
